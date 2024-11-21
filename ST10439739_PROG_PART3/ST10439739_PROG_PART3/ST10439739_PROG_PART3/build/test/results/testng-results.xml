@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-21T20:26:42Z" name="ST10439739_PROG_PART1" finished-at="2024-11-21T20:26:42Z" duration-ms="10">
+    <groups>
+    </groups>
+    <test started-at="2024-11-21T20:26:42Z" name="TestNG tests" finished-at="2024-11-21T20:26:42Z" duration-ms="10">
+    </test> <!-- TestNG tests -->
+  </suite> <!-- ST10439739_PROG_PART1 -->
+</testng-results>
